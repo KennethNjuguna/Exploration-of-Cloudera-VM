@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------------
 
-<p>Cloudera's distribution for Hadoop Cloudera provides a number of services</p> 
+<p>Cloudera's distribution for Hadoop provides a number of services</p> 
 <p> This includes:- </p>
 <ul>
          <li>HBase</li>
