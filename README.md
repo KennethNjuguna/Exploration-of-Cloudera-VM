@@ -2,4 +2,11 @@
 
 -------------------------------------------------------------------------------------------------
 
-<p>Hadoop provides </p> 
+<p>Hadoop distribution in Cloudera provides a number of services</p> 
+<p> This includes:- </p>
+<ul>
+         <li>HBase</li>
+         <li>Impala</li>
+         <li>Oozie</li>
+         <li>Spark</li>
+      </ul>
