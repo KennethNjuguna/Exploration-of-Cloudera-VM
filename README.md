@@ -22,4 +22,9 @@
 
 --------------------------------------------------------------------------------------------------------
 
-<p><h3><li>Hue</li></h3></p>
+<p><h3><li>Hue (Hadoop User Experience)</li></h3></p>
+<p> Hue is a web-based interactive query editor that enables you to interact with data warehouses. For example, the following image shows a graphic representation of Impala SQL query results that you can generate with Hue. </p>
+
+![image](https://user-images.githubusercontent.com/97665556/216337193-b285a3c3-2703-4e1a-b14d-988fd4b948c7.png)
+
+
