@@ -27,7 +27,7 @@
 
 ![image](https://user-images.githubusercontent.com/97665556/216337193-b285a3c3-2703-4e1a-b14d-988fd4b948c7.png)
 <p> You can use Hue to:- </p>
-<p><li><h4>Explore, browse and import your data</h4>through guided naviagation in the left panel of the page: </li></p>
+<p><li><h4>Explore, browse and import your data through guided navigation in the left panel of the page: </li></p>
 
 ![image](https://user-images.githubusercontent.com/97665556/216339073-83dd625a-b69c-46e9-af88-1bd4db8a7f97.png)
 
