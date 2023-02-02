@@ -26,5 +26,8 @@
 <p> Hue is a web-based interactive query editor that enables you to interact with data warehouses. For example, the following image shows a graphic representation of Impala SQL query results that you can generate with Hue. </p>
 
 ![image](https://user-images.githubusercontent.com/97665556/216337193-b285a3c3-2703-4e1a-b14d-988fd4b948c7.png)
+<p> You can use Hue to:- </p>
+<p><h4><li>Explore, browse and import your data</h4>through guided naviagation in the left panel of the page: </li></p>
+![image](https://user-images.githubusercontent.com/97665556/216339073-83dd625a-b69c-46e9-af88-1bd4db8a7f97.png)
 
 
