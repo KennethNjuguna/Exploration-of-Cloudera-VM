@@ -27,7 +27,7 @@
 
 ![image](https://user-images.githubusercontent.com/97665556/216337193-b285a3c3-2703-4e1a-b14d-988fd4b948c7.png)
 <p> You can use Hue to:- </p>
-<p><li><h4>Explore, browse and import your data through guided navigation in the left panel of the page: </li></p>
+<p><li><b>Explore, browse and import your data </b> through guided navigation in the left panel of the page: </li></p>
 
 ![image](https://user-images.githubusercontent.com/97665556/216339073-83dd625a-b69c-46e9-af88-1bd4db8a7f97.png)
 
@@ -41,7 +41,7 @@
  </ul>
  
  <p>Objects can be tagged for quick retrieval, project association, or to assign a more "human readable" name if desired. </p>
- <p><h4><ol><li>Query your data, create a custom dashboard or schedule repetitive jobs</li></ol></h4> in the central panel of the page. </p>
+ <p><b><ol><li>Query your data, create a custom dashboard or schedule repetitive jobs</li></ol></b> in the central panel of the page. </p>
  
  ![image](https://user-images.githubusercontent.com/97665556/216589222-22ee4f15-d084-4503-8699-95222a4106f3.png)
 
