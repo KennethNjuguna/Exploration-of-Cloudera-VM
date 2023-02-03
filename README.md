@@ -46,6 +46,6 @@
  ![image](https://user-images.githubusercontent.com/97665556/216589222-22ee4f15-d084-4503-8699-95222a4106f3.png)
 
 <p> The central panel of the page provides a rich toolset, including:- </p>
-<p><ul><li><h4>Versatile editors</h4> that enable you to create 
+<p><ul><li><h4>Versatile editors</h4><li> that enable you to create 
 
 
