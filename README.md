@@ -42,5 +42,10 @@
  
  <p>Objects can be tagged for quick retrieval, project association, or to assign a more "human readable" name if desired. </p>
  <p><h4><ol><li>Query your data, create a custom dashboard or schedule repetitive jobs</li></ol></h4> in the central panel of the page. </p>
+ 
+ ![image](https://user-images.githubusercontent.com/97665556/216589222-22ee4f15-d084-4503-8699-95222a4106f3.png)
+
+<p> The central panel of the page provides a rich toolset, including:- </p>
+<p><ul><li><h4>Versatile editors</h4> that enable you to create 
 
 
