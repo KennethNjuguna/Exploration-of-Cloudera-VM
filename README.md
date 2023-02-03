@@ -31,4 +31,15 @@
 
 ![image](https://user-images.githubusercontent.com/97665556/216339073-83dd625a-b69c-46e9-af88-1bd4db8a7f97.png)
 
+<p>This panel enables you to: </p>
+<ul>
+         <li>Browse your databases</li>
+         <li>Drill down to specific tables</li>
+         <li>View HDFS directories and Cloud storage</li>
+         <li>Discover indexes and HDFS or kudu tables</li>
+         <li>Find documents</li>
+ </ul>
+ 
+ <p>Objects can be tagged for quick retrieval, project association, or to assign a more "human readable" name if desired.
+
 
