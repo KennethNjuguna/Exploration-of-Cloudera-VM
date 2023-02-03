@@ -41,6 +41,6 @@
  </ul>
  
  <p>Objects can be tagged for quick retrieval, project association, or to assign a more "human readable" name if desired. </p>
- <p><h4><li>Query your data, create a custom dashboard or schedule repetitive jobs</li></h4> in the central panel of the page. </p>
+ <p><h4><ul><li>Query your data, create a custom dashboard or schedule repetitive jobs</li></ul></h4> in the central panel of the page. </p>
 
 
