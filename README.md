@@ -64,4 +64,12 @@
 
 <p>Impala is an addition to tools available for querying big data. Impala does not replace the batch processing frameworks built on MapReduce such as Hive. Hive and other frameworks built on MapRedcue are best suited for long running batch jobs, such as those involving batch processing of Extract, Transform, and Load (ETL) type jobs.</p>
 
+<p><h4><b>How Impala works with Apache Hadoop</b></h4></p>
+<p>The Impala solution is composed of the following components:</p>
+<p><li>Clients - Entities including Hue, ODBC clients, JDBC clients, and the Impala Shell can all interact with Impala. These interfaces are typically used to issue queries or complete administrative tasks such as connecting to Impala. </li></p>
+
+<p><li>Hive Metastore - Stores information about the data available to Impala. For example, the metastore lets Impala know what databases are available and what the structure of those databases is. As you create, drop, and alter schema objects, load data into tables, and so on through Impala SQL statements, the relevant metadata changes are automatically broadcast to all Impala nodes by the dedicated catalog service introduced in Impala 1.2. </li></p>
+
+
+
 
