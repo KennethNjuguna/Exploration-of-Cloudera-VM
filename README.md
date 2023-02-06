@@ -52,7 +52,7 @@
          
          <ul><li><h3> Get expert advice on how to complete a task: </h3></li></ul>
          
-         ![image](https://user-images.githubusercontent.com/97665556/216935462-09a416f1-d7e3-4371-ada1-565d2415cbd9.png)
+![image](https://user-images.githubusercontent.com/97665556/216936755-53522b4a-72a5-454a-ab27-42e6eb99171b.png) 
 
          
          <p> The assistant panel on the right provides expert advice and hints for whatever application is currently being used in the central panel. For example, in the above image, Impala SQL hints are provided to help construct queries in the central panel. </p>
