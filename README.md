@@ -50,7 +50,7 @@
          <li><b>Dashboards </b>that you can create "0n-the-fly" by dragging and dropping elements into the central panel of the Hue interface. No programming is required. Then you can use your custom dashboard to explore your data. </li>
          <li><b>Schedulers </b>that you can create by dragging and dropping, just like the dashboards feature. This feature enables you to create custom workflows and to schedule them to run automatically on a regular basis. A monitoring interface shows the progress, logd, and makes it possible to stop or pause jobs. </li>
          
-         <ul><li><h3> Get expert advice on how to complete a task: </h3></li></ul>
+         <p><ul><li><h3> Get expert advice on how to complete a task: </h3></li></ul></p>
          
 ![image](https://user-images.githubusercontent.com/97665556/216936755-53522b4a-72a5-454a-ab27-42e6eb99171b.png) 
 
