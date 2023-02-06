@@ -84,3 +84,7 @@
 
 <p><li>Each impalad returns data to the coordinating impalad, which sends these results to the client.</li></p>
 
+<h3><b>Primary Impala Features.</b></h3>
+
+
+
