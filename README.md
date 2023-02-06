@@ -59,4 +59,7 @@
          
 <p>The assistant panel on the right provides expert advice and hints for whatever application is currently being used in the central panel. For example, in the above image, Impala SQL hints are provided to help construct queries in the central panel. </p>
 
+<p><h3><li>Impala</li></h3></p>
+<p> Impala provides fast, interactive SQL queries directly on your Apache Hadoop data stored in HDFS, HBase, or Amazon Simple Storage Service (S3). In addition to using the same unified storage platform, Impala also uses the same metadata.
+
 
