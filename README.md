@@ -51,11 +51,12 @@
          <li><b>Schedulers </b>that you can create by dragging and dropping, just like the dashboards feature. This feature enables you to create custom workflows and to schedule them to run automatically on a regular basis. A monitoring interface shows the progress, logd, and makes it possible to stop or pause jobs. </li>
          </p>
          
-<p><li><b>Explore, browse and import your data </b> through guided navigation in the left panel of the page: </li></p>
+         
+<p><li><b>Get expert advice on how to complete a task: </b></li></p>
          
 ![image](https://user-images.githubusercontent.com/97665556/216936755-53522b4a-72a5-454a-ab27-42e6eb99171b.png) 
 
          
-         <p> The assistant panel on the right provides expert advice and hints for whatever application is currently being used in the central panel. For example, in the above image, Impala SQL hints are provided to help construct queries in the central panel. </p>
+<p>The assistant panel on the right provides expert advice and hints for whatever application is currently being used in the central panel. For example, in the above image, Impala SQL hints are provided to help construct queries in the central panel. </p>
 
 
