@@ -46,6 +46,14 @@
  ![image](https://user-images.githubusercontent.com/97665556/216589222-22ee4f15-d084-4503-8699-95222a4106f3.png)
 
 <p> The central panel of the page provides a rich toolset, including:- </p>
-<p><ul><li><b>Versatile editors </b>that enable you to create </li>
+<p><ul><li><b>Versatile editors </b>that enable you to create a wide variety of scripts. </li>
+         <li><b>Dashboards </b>that you can create "0n-the-fly" by dragging and dropping elements into the central panel of the Hue interface. No programming is required. Then you can use your custom dashboard to explore your data. </li>
+         <li><b>Schedulers </b>that you can create by dragging and dropping, just like the dashboards feature. This feature enables you to create custom workflows and to schedule them to run automatically on a regular basis. A monitoring interface shows the progress, logd, and makes it possible to stop or pause jobs. </li>
+         
+         <ul><li><h3> Get expert advice on how to complete a task: </h3></li></ul>
+         ![image](https://user-images.githubusercontent.com/97665556/216935462-09a416f1-d7e3-4371-ada1-565d2415cbd9.png)
+
+         
+         <p> The assistant panel on the right provides expert advice and hints for whatever application is currently being used in the central panel. For example, in the above image, Impala SQL hints are provided to help construct queries in the central panel. </p>
 
 
