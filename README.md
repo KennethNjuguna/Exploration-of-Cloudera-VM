@@ -70,6 +70,17 @@
 
 <p><li>Hive Metastore - Stores information about the data available to Impala. For example, the metastore lets Impala know what databases are available and what the structure of those databases is. As you create, drop, and alter schema objects, load data into tables, and so on through Impala SQL statements, the relevant metadata changes are automatically broadcast to all Impala nodes by the dedicated catalog service introduced in Impala 1.2. </li></p>
 
+<p><li>Impala - This process, which runs on DataNodes, coordinates and executes queries. Each instance of Impala can receive, plan, and coordinate queries from Impala clients. Queries are distributed among Impala nodes, and these nodes then act as workers, executing parallel query fragments. </li></p>
 
 
+<p><li>HBase and HDFS - Storage for data to be queried. </li></p>
+
+<p>Queries executed using Impala are handled as follows:</p>
+<p><li>User applications send SQL queries to Impala through ODBC or JDBC, which provide standardized querying interfaces. The user application may connect to any impalad in the cluster. This impalad becomes the coordinator for the query. </li></p>
+
+<p><li>Impala parses the query and analyzes it to determine what tasks need to be performed by impalad instances across the cluster. Execution is planned for optimal efficiency. </li></p>
+
+<p><li>Services such as HDFS and HBase are accessed by local impalad instances to provide data.. </li></p>
+
+<p><li>Each impalad returns data to the coordinating impalad, which sends these results to the client.</li></p>
 
