@@ -51,6 +51,7 @@
          <li><b>Schedulers </b>that you can create by dragging and dropping, just like the dashboards feature. This feature enables you to create custom workflows and to schedule them to run automatically on a regular basis. A monitoring interface shows the progress, logd, and makes it possible to stop or pause jobs. </li>
          
          <ul><li><h3> Get expert advice on how to complete a task: </h3></li></ul>
+         
          ![image](https://user-images.githubusercontent.com/97665556/216935462-09a416f1-d7e3-4371-ada1-565d2415cbd9.png)
 
          
