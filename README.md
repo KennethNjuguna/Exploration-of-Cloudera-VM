@@ -94,5 +94,10 @@
          <li>We can easily integrate Impala with business intelligence tools such as Tableau, Micro strategy, P Pentaho and Zoom Data. </li>
          <li>Provides support for various file formats such as LZO, Avro, RCfile, Sequence file and Parquet. </li>
          <li>Apache impala uses the ODBC driver, user interface metadata, and SQL syntax such as Apache Hive. </li>
+     </ul></p>
+     
+ <h3><b>Conclusion.</b></h3>
+ <p>In short, we can say that Impala is an open-source and native analytics database for Hadoop. Impala is the most powerful SQL engine that provides the fastest access to data stored in HDFS (Hadoop Distributed File System).
+Impala uses the same Hive Query Language (SQL) syntax, metadata, user interface, and ODBC drivers as Apache Hive. Unlike traditional storage systems, Apache impala is not tied to its storage core. It consists of three core components Impala daemon, Impala state store, and Impala Catalog. The Impala Shell, the Hue browser, and the JDBC/ODBC driver are three query processing interfaces we can use to interact with Apache Impala.</p>
 
 
