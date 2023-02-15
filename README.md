@@ -103,3 +103,5 @@ Impala uses the same Hive Query Language (SQL) syntax, metadata, user interface,
 <p><h3><li>Oozie</li></h3></p>
 <p> The blueprint for Enterprise Hadoop includes Apache™ Hadoop’s original data storage and data processing layers and also adds components for services that enterprises must have in a modern data architecture: data integration and governance, security and operations. Apache Oozie provides some of the operational services for a Hadoop cluster, specifically around job scheduling within the cluster. </p>
 
+<p><h2>What Oozie Does </h2></p>
+
