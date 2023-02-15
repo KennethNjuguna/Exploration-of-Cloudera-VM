@@ -85,6 +85,9 @@
 <p><li>Each impalad returns data to the coordinating impalad, which sends these results to the client.</li></p>
 
 <h3><b>Primary Impala Features.</b></h3>
-
+<p> The key features of Impala are:- </p>
+<p><ul>
+         <li>Provides support for in-memory data processing; it can access or analyze data stored on Hadoop Datanodes without any data movement. </li>
+         <li>Using Impala, we can access data using SQL like queries. </li>
 
 
