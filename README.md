@@ -100,4 +100,6 @@
  <p>In short, we can say that Impala is an open-source and native analytics database for Hadoop. Impala is the most powerful SQL engine that provides the fastest access to data stored in HDFS (Hadoop Distributed File System).
 Impala uses the same Hive Query Language (SQL) syntax, metadata, user interface, and ODBC drivers as Apache Hive. Unlike traditional storage systems, Apache impala is not tied to its storage core. It consists of three core components Impala daemon, Impala state store, and Impala Catalog. The Impala Shell, the Hue browser, and the JDBC/ODBC driver are three query processing interfaces we can use to interact with Apache Impala.</p>
 
+<p><h3><li>Oozie</li></h3></p>
+<p> The blueprint for Enterprise Hadoop includes Apache™ Hadoop’s original data storage and data processing layers and also adds components for services that enterprises must have in a modern data architecture: data integration and governance, security and operations. Apache Oozie provides some of the operational services for a Hadoop cluster, specifically around job scheduling within the cluster. </p>
 
