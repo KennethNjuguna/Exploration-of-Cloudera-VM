@@ -89,5 +89,10 @@
 <p><ul>
          <li>Provides support for in-memory data processing; it can access or analyze data stored on Hadoop Datanodes without any data movement. </li>
          <li>Using Impala, we can access data using SQL like queries. </li>
+         <li>Apache Impala provides faster data access to data stored in Hadoop Distributed File System compated to other SQL engines like Hive. </li>
+         <li>Impala helps us store data in Storage systems like Hadoop Hbase, HDFS and Amazon s3.</li>
+         <li>We can easily integrate Impala with business intelligence tools such as Tableau, Micro strategy, P Pentaho and Zoom Data. </li>
+         <li>Provides support for various file formats such as LZO, Avro, RCfile, Sequence file and Parquet. </li>
+         <li>Apache impala uses the ODBC driver, user interface metadata, and SQL syntax such as Apache Hive. </li>
 
 
