@@ -104,5 +104,7 @@ Impala uses the same Hive Query Language (SQL) syntax, metadata, user interface,
 <p> The blueprint for Enterprise Hadoop includes Apache™ Hadoop’s original data storage and data processing layers and also adds components for services that enterprises must have in a modern data architecture: data integration and governance, security and operations. Apache Oozie provides some of the operational services for a Hadoop cluster, specifically around job scheduling within the cluster. </p>
 
 <p><h2>What Oozie Does </h2></p>
-<p>
+<p>Apache Oozie is a Java Web application used to schedule Apache Hadoop jobs. Oozie combines multiple jobs sequentially into one logical unit of work. It is integrated with the Hadoop stack, with YARN as its architectural center, and supports Hadoop jobs for Apache MapReduce, Apache Pig, Apache Hive, and Apache Sqoop. Oozie can also schedule jobs specific to a system, like Java programs or shell scripts.
+
+Apache Oozie is a tool for Hadoop operations that allows cluster administrators to build complex data transformations out of multiple component tasks. This provides greater control over jobs and also makes it easier to repeat those jobs at predetermined intervals. At its core, Oozie helps administrators derive more value from Hadoop. </p>
 
