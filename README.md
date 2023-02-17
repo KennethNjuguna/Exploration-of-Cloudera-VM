@@ -139,6 +139,6 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
          <li>At the end of execution of a workflow, HTTP callback is used by Oozie to update the client with the workflow status. Entry-to or exit from an <b>action node </b>             may also trigger the callback. </li>
          
-</ul></p>
+
 
 
