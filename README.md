@@ -122,22 +122,14 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 <p><h2><b>How does Oozie work.</b> </h2></p>
 <p><ul>
          <li>Oozie runs as a service in the cluster and clients submit workflow definitions for immediate or later processing.</li>
-
          <li>Oozie workflow consists of <b>action nodes</b> and <b>control-flow nodes.</b></li>
-
-         <li>An <b>action node</b> represents a workflow task, e.g., moving files into HDFS, running a MapReduce, Pig or Hive jobs, importing data using Sqoop or running a                shell script of a program written in Java.</li>
-
+         <li>An <b>action node</b> represents a workflow task, e.g., moving files into HDFS, running a MapReduce, Pig or Hive jobs, importing data using Sqoop or                   running a shell script of a program written in Java.</li>
          <li>A <b>control-flow node</b> controls the workflow execution between actions by allowing constructs like conditional logic wherein different branches may be                    followed depending on the result of earlier action node.</li>
-
          <li><b><b>Start Node</b>, End Node, and Error Node</b> fall under this category of nodes.</li>
-
          <li><b>Start Node</b>, designates the start of the workflow job.</li>
-
          <li><b>End Node</b>, signals end of the job.</li>
-
          <li><b>Error Node</b> designates the occurrence of an error and corresponding error message to be printed.</li>
-
-         <li>At the end of execution of a workflow, HTTP callback is used by Oozie to update the client with the workflow status. Entry-to or exit from an <b>action node </b>             may also trigger the callback. </li>
+         <li>At the end of execution of a workflow, HTTP callback is used by Oozie to update the client with the workflow status. Entry-to or exit from an <b>action                   node </b>may also trigger the callback. </li>
          
 
 
