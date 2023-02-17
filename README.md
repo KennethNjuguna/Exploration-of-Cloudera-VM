@@ -131,6 +131,8 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
          <li><b>Error Node</b> designates the occurrence of an error and corresponding error message to be printed.</li>
          <li>At the end of execution of a workflow, HTTP callback is used by Oozie to update the client with the workflow status. Entry-to or exit from an <b>action                   node </b>may also trigger the callback. </li>
          
+         <p><h3><li>Spark.</li></h3></p>
+         
 
 
 
