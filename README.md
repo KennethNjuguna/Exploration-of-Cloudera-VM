@@ -111,5 +111,9 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 <p>It consists of two parts:- </p>
 <p><ul>
          <li><b>Workflow engine:</b> Responsibilty of a workflow engine is to store and run workflows composed of hadoop jobs e.g Mapreduce, Oozie and Hive.</li>
-         <li><b>Coordinator Engine: </b> It runs workflow jobs based on predefined schedules and availability of data. </li>
+         <li><b>Coordinator Engine: </b> It runs workflow jobs based on predefined schedules and availability of data. </li></p>
+<p>OOzie is scalable and can manage the timely execution of thousands of workflows each consisting of dozens of jobs in a Hadoop cluster.</p>
+
+![image](https://user-images.githubusercontent.com/97665556/219648434-e74c196a-e16f-4f2c-9c5a-7e61366a137e.png)
+
 
