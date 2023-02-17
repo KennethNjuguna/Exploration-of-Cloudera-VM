@@ -109,4 +109,7 @@ Impala uses the same Hive Query Language (SQL) syntax, metadata, user interface,
 Apache Oozie is a tool for Hadoop operations that allows cluster administrators to build complex data transformations out of multiple component tasks. This provides greater control over jobs and also makes it easier to repeat those jobs at predetermined intervals. At its core, Oozie helps administrators derive more value from Hadoop. </p>
 
 <p>It consists of two parts:- </p>
+<p><ul>
+         <li><b>Workflow engine:</b> Responsibilty of a workflow engine is to store and run workflows composed of hadoop jobs e.g Mapreduce, Oozie and Hive.</li>
+         <li><b>Coordinator Engine: </b> It runs workflow jobs based on predefined schedules and availability of data. </li>
 
