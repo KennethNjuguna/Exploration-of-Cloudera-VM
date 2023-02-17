@@ -136,6 +136,15 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
  
  <p><h2>Easy, Productive Development.</h2></p>
 <p>Simple, yet rich, APIs for Java, Scala, and Python open up data for interactive discovery and iterative development of applications. Through shared common code, data scientists and developers can increase productivity with rapid prototyping for batch and streaming applications, using the language and third-party tools on which they already rely. </p>
+
+<p><h2>Fast Processing.</h2></p>
+<p>Take advantage of Spark’s distributed in-memory storage for high performance processing across a variety of use cases, including batch processing, real-time streaming, and advanced modeling and analytics. With significant performance improvements over MapReduce, Spark is the tool of choice for data scientists and analysts to turn their data into real results.</p>
+
+<p><h2>Integrated across the platform.</h2></p>
+<p>As an integrated part of Cloudera’s platform, Spark benefits from unified resource management (through YARN), simple administration (through Cloudera Manager), and compliance-ready security and governance (through Apache Sentry and Cloudera Navigator) — all critical for running in production.</p>
+
+<p><h2>The Cloudera difference for Apache Spark.</h2></p>
+<p>The first integrated solution to support Apache Spark, Cloudera not only has the most experience — with production customers across industries — but also has built the deepest engineering integration between Spark and the rest of the ecosystem, including bringing Spark to YARN and adding necessary security and management integrations (500+ patches contributed, to date). Cloudera also has multiple Spark committers on staff, so you get direct access and influence to the roadmap based on your needs and use cases.</p>
          
          
 
