@@ -131,7 +131,12 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
          <li><b>Error Node</b> designates the occurrence of an error and corresponding error message to be printed.</li>
          <li>At the end of execution of a workflow, HTTP callback is used by Oozie to update the client with the workflow status. Entry-to or exit from an <b>action                   node </b>may also trigger the callback. </li>
          
-         <p><h3><li>Spark.</li></h3></p>
+ <p><h3><li>Spark.</li></h3></p>
+ <p><b>Apache Spark </b> is the open standard for flexible in-memory data processing that enables batch, real-time, and advanced analytics on the Apache Hadoop platform. Cloudera is committed to helping the ecosystem adopt Spark as the default data execution engine for analytic workloads.</p>
+ 
+ <p><h2>Easy, Productive Development.</h2></p>
+<p>Simple, yet rich, APIs for Java, Scala, and Python open up data for interactive discovery and iterative development of applications. Through shared common code, data scientists and developers can increase productivity with rapid prototyping for batch and streaming applications, using the language and third-party tools on which they already rely. </p>
+         
          
 
 
