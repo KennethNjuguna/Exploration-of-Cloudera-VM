@@ -148,6 +148,17 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
 <p><h2>Features of Apache Spark.</h2></p>
 <p><h3><li>Batch/streaming data.</li></h3></p>
+<p>Unify the processing of your data in batches and real-time streaming, using your preferred language: Python, SQL, Scala, Java or R.</p>
+
+<p><h3><li>SQL Analytics.</li></h3></p>
+<p>Execute fast, distributed ANSI SQL queries for dashboarding and ad-hoc reporting. Runs faster than most data warehouses.</p>
+
+<p><h3><li>Data Science at a Scale.</li></h3></p>
+<p>Perform Exploratory Data Analysis (EDA) on petabyte-scale data without having to resort to downsampling.</p>
+
+<p><h3><li>Machine learning.</li></h3></p>
+<p>Train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.</p>
+
 
          
          
