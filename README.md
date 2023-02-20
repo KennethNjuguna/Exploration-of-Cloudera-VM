@@ -145,6 +145,10 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
 <p><h2>The Cloudera difference for Apache Spark.</h2></p>
 <p>The first integrated solution to support Apache Spark, Cloudera not only has the most experience — with production customers across industries — but also has built the deepest engineering integration between Spark and the rest of the ecosystem, including bringing Spark to YARN and adding necessary security and management integrations (500+ patches contributed, to date). Cloudera also has multiple Spark committers on staff, so you get direct access and influence to the roadmap based on your needs and use cases.</p>
+
+<p><h2>Features of Apache Spark.</h2></p>
+<p><h3><li>Batch/streaming data.</li></h3></p>
+
          
          
 
