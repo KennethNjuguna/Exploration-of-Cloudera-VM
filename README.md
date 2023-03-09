@@ -187,6 +187,42 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
 <p> In contrast, Spark copies most of the data from a physical server to RAM; this is called “in-memory” operation. It reduces the time required to interact with servers and makes Spark faster than the Hadoop’s MapReduce system. Spark uses a system called Resilient Distributed Datasets to recover data when there is a failure. </p>
 
+<p><h3>Spark and Hadoop’s Role in Real-time Analytics </h3></p>
+
+<p> Real-time processing means that the moment data is captured, it is fed into an analytical application, and the analytical application processes and analyses the data and delivers insights quickly to the user through a dashboard. So that the user can take necessary action based on insights provided by the application.</p>
+
+![image](https://user-images.githubusercontent.com/97665556/224051471-642605a2-96a8-4e1f-b2e3-2ac8c622d507.png)
+
+<p>An excellent example of real-time streaming is a recommendation engine; similar products are shown based on your browsing history. </p>
+
+![image](https://user-images.githubusercontent.com/97665556/224051866-cb92ac40-fee2-4223-ad22-d92e5a52b3ac.png)
+
+<p>Nowadays, Spark is used in machine learning projects due to its ability to process real-time data effectively. Machine learning is a subfield of artificial intelligence. It is a method of teaching computers to make and improve predictions or behaviors based on some data. </p>
+
+![image](https://user-images.githubusercontent.com/97665556/224052334-595ff1eb-12f5-4441-a91d-1da28fc24144.png)
+
+<p>Spark has its machine learning library called MLib, whereas Hadoop must be interfaced with an external machine learning library, for example, Apache Mahout. </p>
+
+![image](https://user-images.githubusercontent.com/97665556/224052551-36cb58f6-7332-48d2-bdac-ef448f549e7b.png)
+
+<p>As Spark is faster than Hadoop, it is well capable of handling advanced analytics operations like real-time data processing when compared to Hadoop.</p>
+
+<p><h3> Why Spark and Hadoop Are Not Competitors </h3</p>
+         
+<p>Many prominent data professionals argue that “Spark is better than Hadoop” or “Hadoop is better than Spark.” In my opinion, both Hadoop and Spark are not competitors because Hadoop was designed to handle data that does not fit in the memory, whereas Spark was designed to deal with data that fits in the memory. </p>
+         
+ <p>Even Companies like Cloudera that gives installation and support services to open-source, big data software delivers both Hadoop and Spark as services. These big data companies also help their clients to choose the best big data software depending on their needs. </p>
+
+ <p>For instance, If a corporation has a lot of structured data (customer names and email ids) in their database, they might not need advanced streaming analytics and machine learning capabilities provided by Spark. They need not waste time and money by installing Spark as a layer on top of their Hadoop Stack.</p>
+         
+         
+         <p><h3>Conclusion.</h3><p>
+         <p> Although the adoption of Spark has increased, it hasn’t caused any panic in the big data community. Experts predict that Spark would facilitate the growth of another stack, which could be much more powerful. But this new stack would be very similar to that of Hadoop and its ecosystem of software packages.
+
+Simplicity and speed are the most significant advantages of Spark. Even if Spark is a big winner, unless there is a new distributed file system, we will be using Hadoop alongside Spark for a complete big data package </p>
+
+
+
 
 
 
