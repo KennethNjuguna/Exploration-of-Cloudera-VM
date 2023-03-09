@@ -169,6 +169,15 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
 <p>In this post, I have tried to explain the difference between Spark and Hadoop easily so that anyone, even those without a background in computer science, can understand.</p>
 
+<p><h3>Distributed Storage System.</h3></p>
+<p>Even though Spark is said to work faster than Hadoop in certain circumstances, it doesn't have its own distributed storage system. So first, let's understand the concept of a distributed file system. </p>
+
+<p>Distributed storage system lets you store large datasets across an infinite number of servers, rather than storing all the datasets on a single server. </p>
+
+<p>When the number of data increases, you can add as many servers as you want in the distributed storage system. This makes a distributed storage system scalable and cost-efficient because you are using additional hardware (servers) only when there is a demand. </p>
+
+
+
 
          
          
