@@ -207,7 +207,7 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
 <p>As Spark is faster than Hadoop, it is well capable of handling advanced analytics operations like real-time data processing when compared to Hadoop.</p>
 
-<p><h3> Why Spark and Hadoop Are Not Competitors </h3</p>
+<p><h3> Why Spark and Hadoop Are Not Competitors </h3> </p>
          
 <p>Many prominent data professionals argue that “Spark is better than Hadoop” or “Hadoop is better than Spark.” In my opinion, both Hadoop and Spark are not competitors because Hadoop was designed to handle data that does not fit in the memory, whereas Spark was designed to deal with data that fits in the memory. </p>
          
