@@ -161,6 +161,10 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
 <p><h2>Differences between Apache spark and Hadoop </h2></p>
 
+<p>Spark and Hadoop are leading open source big data infrastructure frameworks that are used to store and process large data sets. </p>
+
+<p>Since Spark's introduction to the Apache Software Foundation in 2014, it has received massive interest from developers, enterprise software providers, and independent software vendors looking to capitalize on its in-memory processing speed and cohesive, uniform APIs. </p>
+
 
          
          
