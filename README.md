@@ -176,6 +176,17 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 
 <p>When the number of data increases, you can add as many servers as you want in the distributed storage system. This makes a distributed storage system scalable and cost-efficient because you are using additional hardware (servers) only when there is a demand. </p>
 
+<p><h3>How Spark and Hadoop Process Data.</h3></p>
+<p>Spark does not have its system to organize files in a distributed way(the file system). For this reason, programmers install Spark on top of Hadoop so that Spark’s advanced analytics applications can make use of the data stored using the Hadoop Distributed File System(HDFS). Hadoop has a file system that is much like the one on your desktop computer, but it allows us to distribute files across many machines. HDFS organizes information into a consistent set of file blocks and storage blocks for each node. </p>
+
+![image](https://user-images.githubusercontent.com/97665556/224050020-859f3804-aa9f-478e-bea0-fd74f0b4099a.png)
+
+<p> HDFS uses MapReduce to process and analyze data. MapReduce takes the back of all the data in a physical server after each operation. This was done because data stored in a RAM is volatile than that stored in a physical server. </p>
+
+![image](https://user-images.githubusercontent.com/97665556/224050168-aaa499a8-5a1d-4d97-9b01-5dbd3fa5b931.png)
+
+<p> In contrast, Spark copies most of the data from a physical server to RAM; this is called “in-memory” operation. It reduces the time required to interact with servers and makes Spark faster than the Hadoop’s MapReduce system. Spark uses a system called Resilient Distributed Datasets to recover data when there is a failure. </p>
+
 
 
 
