@@ -217,7 +217,7 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
          
    <p><h3> Conclusion.</h3><p>
          
-         <p>Although the adoption of Spark has increased, it hasn't caused any panic in the big data community. Experts predict that Spark would facilitate the growth of another stack, which could be much more powerful. But this new stack would be very similar to that of Hadoop and its ecosystem of sotware packages.</p>
+         Although the adoption of Spark has increased, it hasn't caused any panic in the big data community. Experts predict that Spark would facilitate the growth of another stack, which could be much more powerful. But this new stack would be very similar to that of Hadoop and its ecosystem of sotware packages.</p>
     
 
 <p>Simplicity and speed are the most significant advantages of Spark. Even if Spark is a big winner, unless there is a new distributed file system, we will be using Hadoop alongside Spark for a complete big data package </p>
