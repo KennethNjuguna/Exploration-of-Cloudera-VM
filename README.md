@@ -159,7 +159,7 @@ Apache Oozie is a tool for Hadoop operations that allows cluster administrators 
 <p><h3><li>Machine learning.</li></h3></p>
 <p>Train machine learning algorithms on a laptop and use the same code to scale to fault-tolerant clusters of thousands of machines.</p>
 
-<p><h2>Differences between Apache spark and Hadoop </h2></p>
+<p><h2>Differences between Apache spark and Hadoop </h3></p>
 
 <p>Spark and Hadoop are leading open source big data infrastructure frameworks that are used to store and process large data sets. </p>
 
